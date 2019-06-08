@@ -10,3 +10,4 @@ master 分支上修改，模拟发生冲突
 处理到一半，临时保存
 reabse 1
 reabse 2
+reabse 4
