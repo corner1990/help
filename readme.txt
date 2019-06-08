@@ -6,3 +6,4 @@
 dev 分支上操作
 master 分支上修改，模拟发生冲突
 学习解决冲突
+学习fast forward
